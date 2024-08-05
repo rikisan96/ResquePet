@@ -13,14 +13,18 @@ namespace ResquePet.Models
 
         public DateOnly dataNascita { get; set; }
 
+        //public DateOnly DataRegistrazione { get; set; }
+
         public bool isMicrochipped { get; set; }
 
         public int? MicrochipID { get; set; }
 
         public int? IdUtente { get; set; }
 
-        public Utente utente { get; set; }
+        public Utente? utente { get; set; }
     }
+
+    
 }
 
 

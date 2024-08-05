@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ResquePet.Models.Animale>
+
+@using ResquePet.Models
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+@*             <th>
+                @Html.DisplayNameFor(model => model.DataRegistrazione)
+            </th> *@
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoAnimale)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.coloreMantello)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dataNascita)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.isMicrochipped)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MicrochipID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.utente)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+@*             <th>
+                @Html.DisplayNameFor(model => model.DataRegistrazione)
+            </th> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoAnimale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.coloreMantello)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dataNascita)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.isMicrochipped)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MicrochipID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.utente.IdUtente)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdAnimale">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdAnimale">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdAnimale">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

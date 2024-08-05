@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\data\\veterinariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\data\\veterinariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\views\\animale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\views\\animale\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\controllers\\animalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\controllers\\animalecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\views\\animale\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\views\\animale\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\models\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\models\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VeterinarioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Data\\VeterinarioContext.cs",
-              "RelativeDocumentMoniker": "ResquePet\\Data\\VeterinarioContext.cs",
-              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Data\\VeterinarioContext.cs",
-              "RelativeToolTip": "ResquePet\\Data\\VeterinarioContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T10:23:48.717Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Views\\Animale\\Index.cshtml",
+              "RelativeDocumentMoniker": "ResquePet\\Views\\Animale\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Views\\Animale\\Index.cshtml",
+              "RelativeToolTip": "ResquePet\\Views\\Animale\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAawDUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:00:40.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AnimaleController.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Controllers\\AnimaleController.cs",
+              "RelativeDocumentMoniker": "ResquePet\\Controllers\\AnimaleController.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Controllers\\AnimaleController.cs",
+              "RelativeToolTip": "ResquePet\\Controllers\\AnimaleController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwD0AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:59:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Views\\Animale\\Create.cshtml",
+              "RelativeDocumentMoniker": "ResquePet\\Views\\Animale\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Views\\Animale\\Create.cshtml",
+              "RelativeToolTip": "ResquePet\\Views\\Animale\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T11:09:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
+              "RelativeDocumentMoniker": "ResquePet\\Models\\Animale.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
+              "RelativeToolTip": "ResquePet\\Models\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:07:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Utente.cs",
               "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Utente.cs",
               "RelativeDocumentMoniker": "ResquePet\\Models\\Utente.cs",
@@ -48,23 +99,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T10:13:36.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animale.cs",
-              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
-              "RelativeDocumentMoniker": "ResquePet\\Models\\Animale.cs",
-              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
-              "RelativeToolTip": "ResquePet\\Models\\Animale.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T10:07:08.443Z",
               "EditorCaption": ""
             }
           ]
