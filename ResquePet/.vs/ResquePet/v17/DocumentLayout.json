@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\data\\veterinariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\data\\veterinariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|c:\\users\\riscaldino\\desktop\\resquepet\\resquepet\\resquepet\\models\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74207BD6-4659-4685-A1E6-837F5FF5B14C}|ResquePet\\ResquePet.csproj|solutionrelative:resquepet\\models\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeterinarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Data\\VeterinarioContext.cs",
+              "RelativeDocumentMoniker": "ResquePet\\Data\\VeterinarioContext.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Data\\VeterinarioContext.cs",
+              "RelativeToolTip": "ResquePet\\Data\\VeterinarioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:23:48.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "ResquePet\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Utente.cs",
+              "RelativeToolTip": "ResquePet\\Models\\Utente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:13:36.277Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animale.cs",
+              "DocumentMoniker": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
+              "RelativeDocumentMoniker": "ResquePet\\Models\\Animale.cs",
+              "ToolTip": "C:\\Users\\Riscaldino\\Desktop\\ResquePet\\ResquePet\\ResquePet\\Models\\Animale.cs",
+              "RelativeToolTip": "ResquePet\\Models\\Animale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:07:08.443Z",
+              "EditorCaption": ""
             }
           ]
         }

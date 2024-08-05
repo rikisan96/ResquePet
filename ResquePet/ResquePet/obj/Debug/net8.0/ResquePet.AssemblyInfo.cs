@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResquePet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f8a68be02bc84c03239e2646525305e7a8218e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResquePet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResquePet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
